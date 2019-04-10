@@ -22,7 +22,7 @@ for (i=0;i<10;i++)
  }
  for(i=0;i<10;i++)
  {
- printf("The s%d item is:-%d",i,arr[i]);
+ printf("The s%d item is:-%d",arr[i]);
  }
  }
  
