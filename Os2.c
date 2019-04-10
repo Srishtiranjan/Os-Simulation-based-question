@@ -6,7 +6,7 @@ int arr[]=10,n,i,j;
 printf("Enter the number of gifts");
 for(i=0;i<10;i++)
 {
-scanf("%d",&arr[i]);
+ scanf("%d",&arr[i]);
 }
 for (i=0;i<10;i++)
 {
