@@ -12,7 +12,7 @@ printf("\n\t Enter burst time:time priorities: Arrival time \n);
  {
  printf("\n Process %d,i+1);
  scanf("%d %d %d",&bt[i],&pp[i],&at[i]);
- p[i]=i-1;
+ p[i]= i-1;
  }
  int j;
  for(i=o;i<n-1;i++)
