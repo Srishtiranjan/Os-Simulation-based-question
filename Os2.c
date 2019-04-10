@@ -17,7 +17,7 @@ for (i=0;i<10;i++)
    n=arr[i+1];
    arr[i+1]=arr[i];
    arr[i]=n;
-   }
+    }
   }
  }
  for(i=0;i<10;i++)
