@@ -2,7 +2,7 @@
 #include <conio.h>
 int main()
 {
-int x,n,tq,p[10],pp[10],bt[10],w[10],t[10],at[10],awt,atat,i;
+int x,n,tq,p[10],pp[10],bt[10],w[10],t[10],at[10],atat,awt,i;
 printf("Enter the number");
 scanf("%d",&n);
 printf("Enter time quantum");
