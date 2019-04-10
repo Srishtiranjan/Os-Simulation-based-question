@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int arr[]=10,n,i,j;
+int arr[]=10, n,i,j;
 printf("Enter the number of gifts");
 for(i=0;i<10;i++)
 {
