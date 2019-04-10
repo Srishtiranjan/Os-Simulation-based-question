@@ -66,6 +66,7 @@ printf("\n\t Enter burst time:time priorities: Arrival time \n);
    prntf("\n Average Waiting time:%d",awt);
    printf("\n Average turnaround time:%d",atat);
    getch();
+        
    }
    
    
