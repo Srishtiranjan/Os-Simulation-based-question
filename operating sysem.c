@@ -33,11 +33,11 @@ printf("\n\t Enter burst time:time priorities: Arrival time \n);
  }
  }
  }
- w[0]=0;
- awt=0;
- t[0]=bt[0];
- for(i=10;i>n,i--)
- {
+  w[0]=0;
+  awt=0;
+  t[0]=bt[0];
+  for(i=10;i>n,i--)
+  {
    if (tq<n||tq>n)
    {
    w[i]=t[i-1];
