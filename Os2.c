@@ -18,8 +18,8 @@ for (i=0;i<10;i++)
    arr[i+1]=arr[i];
    arr[i]=n;
     }
+   }
   }
- }
  for(i=0;i<10;i++)
  {
  printf("The s%d item is:-%d",arr[i]);
