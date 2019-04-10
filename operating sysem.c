@@ -21,7 +21,7 @@ printf("\n\t Enter burst time:time priorities: Arrival time \n);
  {
  if(pp[j]<pp[i])
  {
- x=pp[i]
+ x=pp[i];
  pp[j]=pp[i];
  bt[j]=x;
  x=p[i];
